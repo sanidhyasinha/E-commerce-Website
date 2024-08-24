@@ -1031,7 +1031,7 @@ footer .copyright{
         transition: 0.3s;
     }
 
-    #navbar .active{
+    #navbar.active{
         right: 0px;
     }
 
@@ -1047,6 +1047,7 @@ footer .copyright{
     #mobile i{
         color: #1a1a1a;
         font-size: 24px;
+        padding-left: 20px;
     }
 
     #close{
